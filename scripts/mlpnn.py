@@ -1,12 +1,5 @@
 """
 Script for training and evaluating neural network model.
-
-Authors:
-- Ian Heung
-- Chinedu Okeke
-
-Date Started: April 28th, 2024
-Last Edited: May 4th, 2024
 """
 
 import os
