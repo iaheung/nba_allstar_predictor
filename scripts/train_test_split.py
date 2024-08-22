@@ -1,12 +1,5 @@
 """
 Performs train test split on player_data.csv
-
-Authors:
-- Ian Heung
-- Chinedu Okeke
-
-Date Started: April 28th, 2024
-Last Edited: April 28th, 2024
 """
 
 import os
