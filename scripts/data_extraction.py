@@ -2,12 +2,6 @@
 Script for scraping player data from each team in each season from basketball reference.
 
 This file requires basketball_reference_scraper. Instructions to instaling it is in README.
-
-Authors:
-- Ian Heung
-
-Date Started: March 25th, 2024
-Last Edited: April 28th, 2024
 """
 
 from basketball_reference_scraper.teams import get_roster_stats
