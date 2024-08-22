@@ -2,13 +2,6 @@
 Script for processing player data into suitable format for model training.
 
 Adds in All-Star data into general player data
-
-Authors:
-- Ian Heung
-- Chinedu Okeke
-
-Date Started: April 28th, 2024
-Last Edited: April 28th, 2024
 """
 
 import os
