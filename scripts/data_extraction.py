@@ -5,9 +5,8 @@ This file requires basketball_reference_scraper. Instructions to instaling it is
 
 Authors:
 - Ian Heung
-- Chinedu Okeke
 
-Date Started: April 28th, 2024
+Date Started: March 25th, 2024
 Last Edited: April 28th, 2024
 """
 
