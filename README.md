@@ -11,6 +11,7 @@ pip install basketball-reference-scraper
 ```
 
 Folder structure:
+ - `evaluate` Performance metrics and confusion matrices of various models
  - `scripts` Scripts to extract and transform data, run models
  - `training_data` Processed training and test split data
 
