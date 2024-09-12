@@ -13,13 +13,13 @@ These are the required Python packages to run the scripts:
 ##### Anaconda Installation
 
 ```
-conda install -c conda-forge imbalanced-learn matplotlib numpy pandas seaborn scikit-learn
+conda install matplotlib numpy pandas scikit-learn
 ```
 
 ##### pip Installation
 
 ```
-pip install imbalanced-learn matplotlib numpy pandas seaborn scikit-learn
+pip install matplotlib numpy pandas scikit-learn
 ```
 
 ##### Data Scraper
